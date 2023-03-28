@@ -1,0 +1,147 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 600px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 449px;
+  height: 123px;
+  margin: 60px auto;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 93px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 368px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 15px 22px 0 210px;
+}
+
+.u-section-2 .u-btn-1 {
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  margin: -50px auto 0 21px;
+  padding: 8px 48px 10px 47px;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 20px 22px 0 210px;
+}
+
+.u-section-2 .u-btn-2 {
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  margin: -50px auto 0 21px;
+  padding: 8px 48px 10px 47px;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 20px 22px 0 210px;
+}
+
+.u-section-2 .u-btn-3 {
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  margin: -50px auto 0 21px;
+  padding: 8px 48px 10px 47px;
+}
+
+.u-section-2 .u-text-4 {
+  margin: 20px 22px 0 210px;
+}
+
+.u-section-2 .u-btn-4 {
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  margin: -50px auto 0 21px;
+  padding: 8px 48px 10px 47px;
+}
+
+.u-section-2 .u-text-5 {
+  margin: 20px 22px 0 210px;
+}
+
+.u-section-2 .u-btn-5 {
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  margin: -50px auto 26px 13px;
+  padding: 8px 48px 10px 47px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+    margin-left: 32px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 0;
+    margin-left: 32px;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 0;
+    margin-left: 32px;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-right: 0;
+    margin-left: 32px;
+  }
+
+  .u-section-2 .u-btn-4 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin-right: 0;
+    margin-left: 32px;
+  }
+
+  .u-section-2 .u-btn-5 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-1 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin-left: 0;
+  }
+}

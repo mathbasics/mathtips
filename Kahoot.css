@@ -1,0 +1,109 @@
+ .u-section-1 {
+  background-image: url("images/kahoot.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 577px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 298px;
+  height: 138px;
+  margin: 88px auto 0;
+}
+
+.u-section-1 .u-group-1 {
+  width: 331px;
+  min-height: 157px;
+  height: auto;
+  margin: -9px auto 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  background-image: none;
+  border-style: solid;
+  margin: 18px auto 0;
+  padding: 9px 99px 11px 98px;
+}
+
+.u-section-1 .u-btn-2 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  background-image: none;
+  margin: 13px auto 0;
+  padding: 9px 124px 10px 122px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 137px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 5px auto 4px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 375px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 476px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 137px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 22px;
+    padding-bottom: 22px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 264px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 365px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 173px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 274px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 72px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 173px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
